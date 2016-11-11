@@ -1,0 +1,41 @@
+# /_data/authors.yml
+
+Joy Roy:
+  name: "Joy Roy"
+  email: "joy.roy@ki.se"
+  bio: "Docent"
+  telefon:	""
+  enhet:	"Kärlkirurgi"
+  avatar: "joy300.jpg"
+  researchgate: "Joy_Roy4"
+
+Rebecka:
+  name: "Rebecka Hultgren"
+  email: "rebecka.hultgren@ki.se"
+  bio: "Docent"
+  telefon:	""
+  enhet:	"Kärlkirurgi"
+  avatar: "http://ki.se/sites/default/files/styles/profile/public/profile/hultgren-rebecka-200.jpg"
+  researchgate: "Rebecka_Hultgren"
+
+Gasser:
+  name: "Christian Gasser"
+  email: "tg@hallf.kth.se"
+  bio: "Professor"
+  telefon: ""
+  enhet: "Hållfasthetslära"
+  avatar: "https://www.kth.se/social/files/50412a16f276540ebf00000f/t_c_gasser_200.jpg"
+  researchgate: "Thomas_Gasser3"
+
+Anton:
+  name: "Anton Razuvaev"
+  email: "anton.razuvaev@ki.se"
+
+Olga:
+  name: "Olga Nilsson"
+  email: "olga.nilsson@ki.se"
+  bio: "Doktorand"
+  enhet: "Kärlkirurgi"
+
+# Another locale
+# --------------

@@ -1,0 +1,56 @@
+# main links links
+main:
+
+  - title: "News"
+    url:  /en/news.html
+
+#  - title: "SPLASH"
+#    url:  /splash.html
+
+  - title: "Research Area"
+    url: /en/research-area.html
+
+  - title: "Publications"
+    url: /en/publications.html
+
+  - title: "Members"
+    url: /en/members.html
+
+  - title: "Dissertations"
+    url: /en/dissertations.html
+
+  - title: "Meetings and Plans"
+    url:
+
+  - title: "Vascular Surgery"
+    url: http://ki.se/mmk/karlkirurgi
+
+
+
+#navigation til memberbs
+members_navigation:
+  - title: "Group Leaders/Senior Researchers"
+    children:
+      - title: "Joy Roy"
+        url: /en/members/roy.html
+      - title: "Rebecka Hultgren"
+        url: /child-2-page-url/
+      - title: "Per Eriksson"
+        url: /child-3-page-url/
+      - title: "Christian Gasser"
+        url: /child-4-page-url/
+      - title: "Lars Maegdefessel"
+        url: /child-5-page-url/
+
+  - title: "Researchers"
+    children:
+      - title: "Anton Razuvaev"
+        url: /child-6-page-url/
+      - title: "Johan Forsberg"
+        url: /child-7-page-url/
+      - title: "Christina Villard"
+        url: /child-8-page-url/
+      - title: "Andrii Grytsan"
+        url: /child-9-page-url/
+      - title: "Moritz Lindquist Liljeqvist"
+        url: /child-10-page-url/
