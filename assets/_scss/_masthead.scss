@@ -33,11 +33,11 @@
   &__inner-wrap-languageselector {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 0em 0em 0em;
     font-family: $sans-serif-narrow;
     font-weight: 700;
     text-transform: uppercase;
-    background-color: $lighter-gray;
+
 
     @include breakpoint($x-large) {
       max-width: $x-large;
