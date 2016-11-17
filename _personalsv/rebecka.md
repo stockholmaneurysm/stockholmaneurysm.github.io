@@ -6,7 +6,7 @@ author_profile: true
 author: Rebecka
 permalink: "sv/members/hultgren.html"
 alt_url: "/en/members/hultgren.html"
-alt_lang: "English"
+alt_lang: "In English"
 
 ---
 

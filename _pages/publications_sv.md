@@ -10,14 +10,62 @@ lang: en
 
 **Publikationer från STAR-grupper, årsvis**
 
+**2016**
 
+A Majority of Admitted Patients With Ruptured Abdominal Aortic Aneurysm Undergo and Survive Corrective Treatment: A Population-Based Retrospective Cohort Study.
+Hultgren R, Zommorodi S, Gambe M, Roy J
+World J Surg 2016 Dec;40(12):3080-3087
 
-**2015**
+Patients with abdominal aortic aneurysm have a high prevalence of popliteal artery aneurysms.
+Tuveson V, Löfdahl H, Hultgren R
+Vasc Med 2016 Aug;21(4):369-75
+
+Local Diameter, Wall Stress, and Thrombus Thickness Influence the Local Growth of Abdominal Aortic Aneurysms.
+Martufi G, Lindquist Liljeqvist M, Sakalihasan N, Panuccio G, Hultgren R, Roy J, et al
+J. Endovasc. Ther. 2016 Dec;23(6):957-966
+
+Differences in cardiovascular toxicities associated with cigarette smoking and snuff use revealed using novel zebrafish models.
+Folkesson M, Sadowska N, Vikingsson S, Karlsson M, Carlhäll C, Länne T, et al
+Biol Open 2016 Jul;5(7):970-8
+
+Volume growth of abdominal aortic aneurysms correlates with baseline volume and increasing finite element analysis-derived rupture risk.
+Lindquist Liljeqvist M, Hultgren R, Gasser T, Roy J
+J. Vasc. Surg. 2016 Jun;63(6):1434-1442.e3
+
+Imatinib treatment attenuates growth and inflammation of angiotensin II induced abdominal aortic aneurysm.
+Vorkapic E, Dugic E, Vikingsson S, Roy J, Mäyränpää M, Eriksson P, et al
+Atherosclerosis 2016 Jun;249():101-9
+
+Altered PPARγ Coactivator-1 Alpha Expression in Abdominal Aortic Aneurysm: Possible Effects on Mitochondrial Biogenesis.
+Gabrielson M, Vorkapic E, Folkesson M, Welander M, Matussek A, Dimberg J, et al
+J. Vasc. Res. 2016 ;53(1-2):17-26
+
+Age at detection of abdominal aortic aneurysms in siblings of patients with abdominal aortic aneurysms.
+Linné A, Forsberg J, Lindström D, Ideskog E, Hultgren R
+J. Vasc. Surg. 2016 Apr;63(4):883-7
+
+Inflammatory cells, ceramides, and expression of proteases in perivascular adipose tissue adjacent to human abdominal aortic aneurysms.
+Folkesson M, Vorkapic E, Gulbins E, Japtok L, Kleuser B, Welander M, et al
+J. Vasc. Surg. 2016 Mar;():
+
+The composition of collagen in the aneurysm wall of men and women.
+Villard C, Eriksson P, Hanemaaijer R, Lindeman J, Hultgren R
+J. Vasc. Surg. 2016 May;():
+
+Prediction of Rupture Sites in Abdominal Aortic Aneurysms After Finite Element Analysis.
+Erhart P, Roy J, de Vries J, Liljeqvist M, Grond-Ginsbach C, Hyhlik-Dürr A, et al
+J. Endovasc. Ther. 2016 Feb;23(1):115-20
 
 
 Prediction of Rupture Sites in Abdominal Aortic Aneurysms After Finite Element Analysis.
 Erhart P, Roy J, de Vries J, Liljeqvist M, Grond-Ginsbach C, Hyhlik-Dürr A, et al
 J. Endovasc. Ther. 2016 Feb;23(1):115-20
+
+**2015**
+
+Proteolytically active ADAM10 and ADAM17 carried on membrane microvesicles in human abdominal aortic aneurysms.
+Folkesson M, Li C, Frebelius S, Swedenborg J, Wågsäter D, Williams K, et al
+Thromb. Haemost. 2015 Nov;114(6):1165-74
 
 Aneurysm development in patients with a bicuspid aortic valve is not associated with transforming growth factor-β activation.
 Paloschi V, Gådin J, Khan S, Björck H, Du L, Maleki S, et al

@@ -31,9 +31,9 @@ members_navigation:
   - title: "Gruppledare/Seniora Forskare"
     children:
       - title: "Joy Roy"
-        url: /child-1-page-url/
+        url: /sv/members/roy.html
       - title: "Rebecka Hultgren"
-        url: /child-2-page-url/
+        url: sv/members/hultgren.html
       - title: "Per Eriksson"
         url: /child-3-page-url/
       - title: "Christian Gasser"
