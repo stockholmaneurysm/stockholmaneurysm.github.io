@@ -14,13 +14,11 @@ alt_lang: "English"
 {% endfor %}
 -->
 
-Nyheter som rör STAR-gruppen:
 
 <ul>
 {% for topic in site.nyheter %}
-    <h3><a href="{{ site.baseurl }}{{ topic.url }}">{{topic.title}}</a></h3>
-    {{ topic.date}} <p>
-
-    {{ topic.preview }}
+  {{ topic.date}}<p>
+  <b><a href="{{ site.baseurl }}{{ topic.url }}">{{topic.title}}</a></b><p>
+  {{ topic.preview }}
+    <hr>
 {% endfor %}
-</ul>
