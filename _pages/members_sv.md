@@ -18,7 +18,7 @@ sidebar:
 
 ## Gruppledare/Seniora Forskare
 
-<a href="/members/roy.html">Joy Roy, Docent</a>
+<a href="/sv/members/roy.html">Joy Roy, Docent</a>
 
 
 
@@ -31,7 +31,7 @@ sidebar:
 
 
 
-<a href="/members/hultgren.html">Rebecka Hultgren, Docent</a>  
+<a href="/sv/members/hultgren.html">Rebecka Hultgren, Docent</a>  
 
 
 ![Rebecka](http://ki.se/sites/default/files/styles/profile/public/profile/hultgren-rebecka-200.jpg "Rebecka")
