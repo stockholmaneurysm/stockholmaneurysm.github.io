@@ -18,7 +18,7 @@ sidebar:
 
 ## Gruppledare/Seniora Forskare
 
-<a href="/sv/members/roy.html">Joy Roy, Docent</a>
+*Joy Roy, Docent*
 
 
 
