@@ -35,21 +35,12 @@ members_navigation:
         url: /en/members/roy.html
       - title: "Rebecka Hultgren"
         url: /en/members/hultgren.html
-      - title: "Per Eriksson"
-        url: /child-3-page-url/
-      - title: "Christian Gasser"
-        url: /child-4-page-url/
-      - title: "Lars Maegdefessel"
-        url: /child-5-page-url/
+
 
   - title: "Researchers"
     children:
       - title: "Anton Razuvaev"
         url: /child-6-page-url/
-      - title: "Johan Forsberg"
-        url: /child-7-page-url/
-      - title: "Christina Villard"
-        url: /child-8-page-url/
       - title: "Andrii Grytsan"
         url: /child-9-page-url/
       - title: "Moritz Lindquist Liljeqvist"
