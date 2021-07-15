@@ -31,7 +31,7 @@ sidebar:
 
 
 
-<a href="/sv/members/hultgren.html">Rebecka Hultgren, Docent</a>  
+Rebecka Hultgren, Docent 
 
 
 ![Rebecka](http://ki.se/sites/default/files/styles/profile/public/profile/hultgren-rebecka-200.jpg "Rebecka")
